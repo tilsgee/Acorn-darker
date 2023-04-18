@@ -1,11 +1,11 @@
-# Acorn
-It's like [Accord](https://github.com/evelyneee/accord), but it's a theme!
+# Acorn (WIP)
+It's like [Accord](https://github.com/evelyneee/accord), but it's a theme for Vencord!
+
+Paste `https://raw.githubusercontent.com/SlippingGitty/Acorn/main/Acorn.css` into the Themes Links.
 
 ![image](https://user-images.githubusercontent.com/76500838/232681028-23553eea-3115-4b4e-b452-280ec9cd1cd3.png)
 
-## This theme is made with Vencord in mind because it takes advantage of it's ability to make Discord translucent on macOS
-
-### You can enable translucency by doing as follows:
+### You can enable translucency on Vencord on macOS by doing the following:
 
 * Go to Settings > Vencord, then toggle "Enable Translucent Window".
 
