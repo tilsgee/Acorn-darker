@@ -5,7 +5,8 @@ Paste `https://raw.githubusercontent.com/SlippingGitty/Acorn/main/Acorn.css` int
 
 ![image](https://user-images.githubusercontent.com/76500838/232681028-23553eea-3115-4b4e-b452-280ec9cd1cd3.png)
 
-### You can enable translucency on Vencord on macOS by doing the following:
+<details>
+<summary>Information on enabling translucency</summary>
 
 * Go to Settings > Vencord, then toggle "Enable Translucent Window".
 
@@ -20,3 +21,4 @@ Paste `https://raw.githubusercontent.com/SlippingGitty/Acorn/main/Acorn.css` int
 }
 
 ```
+</details>
