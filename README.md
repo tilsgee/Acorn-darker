@@ -3,7 +3,7 @@ A mime of [Accord](https://github.com/evelyneee/accord), but it's a theme for ![
 
 Paste `https://raw.githubusercontent.com/SlippingGitty/Acorn/main/Acorn.css` into the Themes Links.
 
-![image](https://user-images.githubusercontent.com/76500838/232681028-23553eea-3115-4b4e-b452-280ec9cd1cd3.png)
+![SCR-20230418-qlnx](https://user-images.githubusercontent.com/76500838/232929038-daa34123-c79c-4f6b-a074-3c29cfebf40b.png)
 
 <details>
 <summary>Information on enabling translucency</summary>
