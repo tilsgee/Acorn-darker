@@ -24,3 +24,4 @@
 > It is essential that you don't touch this url
 */
 @import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/source.css');
+@import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/themes/default.css'); /* rename default to darker for darker theme */
