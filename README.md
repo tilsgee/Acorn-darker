@@ -6,6 +6,14 @@ Paste `https://raw.githubusercontent.com/SlippingGitty/Acorn/main/Acorn.css` int
 ![SCR-20230418-qlnx](https://user-images.githubusercontent.com/76500838/232929038-daa34123-c79c-4f6b-a074-3c29cfebf40b.png)
 
 <details>
+<summary>Darker theme</summary>
+
+![image](https://user-images.githubusercontent.com/76500838/233127566-af159c13-417a-43e6-be04-4bcc95aad3c6.png)
+
+</details>
+
+
+<details>
 <summary>Information on enabling translucency</summary>
 
 * Go to Settings > Vencord, then toggle "Enable Translucent Window".
