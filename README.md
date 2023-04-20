@@ -8,7 +8,7 @@ Paste `https://raw.githubusercontent.com/SlippingGitty/Acorn/main/Acorn.css` int
 <details>
 <summary>Darker theme</summary>
 
-![image](https://user-images.githubusercontent.com/76500838/233127566-af159c13-417a-43e6-be04-4bcc95aad3c6.png)
+![image](https://user-images.githubusercontent.com/76500838/233463443-ced2f2ad-ddf9-43dd-a4f4-86376b3313dc.png)
 
 </details>
 
