@@ -12,6 +12,13 @@ Paste `https://raw.githubusercontent.com/SlippingGitty/Acorn/main/Acorn.css` int
 
 </details>
 
+<details>
+<summary>Light theme</summary>
+
+![light](https://user-images.githubusercontent.com/76500838/234134282-189e130d-b38b-4ff1-99aa-f6c3e9d722c0.png)
+
+</details>
+
 
 <details>
 <summary>Information on enabling translucency</summary>
