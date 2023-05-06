@@ -1,0 +1,18 @@
+.panels-3wFtMD:not(:hover) {
+    opacity: 0 !important;
+    height: 10px;
+    background-color: #2c2f32;
+}
+
+.panels-3wFtMD {
+    border-radius: 0px;
+    margin-bottom: 0px;
+    margin-right: -1px;
+    margin-left: auto;
+    background: var(--background-tertiary);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 0px 0px rgba(0, 0, 0, 0);
+    border: 0px solid var(--surCordBorder);
+    transition: .5s;
+    opacity: 1;
+}
