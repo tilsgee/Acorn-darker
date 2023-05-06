@@ -22,6 +22,16 @@
 ,,,,,,,,,,,,,,,,,,,,,#&#,,,,,%,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,%#%(,,,,,,,,,,,,,,,,,,,,,
 > It is essential that you don't touch this url
+*/ @import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/source.css'); /**/
+
+/*
+----------Config 🛠️---------
+> Rename "hide.css" to "donthide.css" to stop hiding the user panel
 */
-@import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/source.css');
-@import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/themes/default.css'); /* rename default to darker for darker theme */
+@import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/config/panels/hide.css');
+
+/*
+----------Palettes 🎨---------
+> Rename "default.css" to "darker.css" for a darker theme
+*/
+@import url('https://raw.githubusercontent.com/SlippingGitty/Acorn/main/src/themes/default.css');
